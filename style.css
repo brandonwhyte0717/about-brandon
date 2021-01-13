@@ -1,0 +1,20 @@
+img{
+    height: 40em;
+    display: block;
+    margin: 0 auto;
+    border: black thick solid;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+p{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
